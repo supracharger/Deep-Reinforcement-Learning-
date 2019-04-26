@@ -4,7 +4,7 @@
 [image2]: images/imgReacher.gif "p2"
 [image3]: images/tennis.gif "p3"
 
-# Deep Reinforcement Learning
+# Deep Reinforcement Learning A.I.
 
 ### Navigation Collecting Bananas
 ![p1][image1]
